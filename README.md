@@ -12,6 +12,7 @@ $ python main.py 1000000
 ```
 
 ## Expected output
+The solid line is the simulated BER and the dash line is the theoretical BER.
 <p align="center">
 	<img src="Expected_Output.png">
 </p>
