@@ -13,7 +13,7 @@ $ python main.py 1000000
 
 ## Expected output
 <p align="center">
-	<img src="output.png">
+	<img src="Expected_Output.png">
 </p>
 
 ## Important Equations
