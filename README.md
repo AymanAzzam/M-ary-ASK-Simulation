@@ -12,7 +12,9 @@ $ python main.py 1000000
 ```
 
 ## Expected output
-<img align="center" src="output.png">
+<p align="center">
+	<img src="output.png">
+</p>
 
 ## Important Equations
 1. Eb = E0 * summation(ai^2)/N , where N is the total number of bits. In this example assume Eb = 1 to get E0.
