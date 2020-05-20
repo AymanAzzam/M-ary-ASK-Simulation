@@ -1,7 +1,20 @@
 # M-ary-ASK-Simulation
-Simulation and analysis of the Amplitude Shift Keying (ASK) and its Bit Error Rate (BER).
+Simulation and analysis of the Amplitude Shift Keying (ASK) and its Bit Error Rate (BER) for 8-ary case.
 
-# Important Equations
+## Prerequisites
+1. Python
+2. numpy, matplotlib and scipy
+
+## Run
+Run the following command for Windows or Linux in this directory. where 1000000 is the number of random decoded bits
+```sh
+$ python main.py 1000000
+```
+
+## Expected output
+<img src="output.png" height="25%" width="25%">
+
+## Important Equations
 1. Eb = E0 * summation(ai^2)/N , where N is the total number of bits. In this example assume Eb = 1 to get E0.
 2. SNR = Eb/N0.
 3. Variance = N0/2.
