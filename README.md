@@ -1,6 +1,12 @@
 # M-ary-ASK-Simulation
 Simulation and analysis of the Amplitude Shift Keying (ASK) and its Bit Error Rate (BER) for 8-ary case.
 
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Run](#run)
+- [Expected output](#expected-output)
+- [Important Equations](#important-equations)
+
 ## Prerequisites
 1. Python
 2. numpy, matplotlib and scipy
